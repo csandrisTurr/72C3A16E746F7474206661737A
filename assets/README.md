@@ -1,6 +1,19 @@
-<h2>én gábor vagyok<h2>
-<h1>Nem,én vagyok Gábor</h1>
-<h2>Nem,ÉN vagyok Gábor</h2>
-<h1>Miért hazdsz?</h1>
-<h2>Nem hazudok</h2>
-<h3>ok</h3>
+## Projekt felépítés
+- A projekt felépítése rendezett, minden a maga helyén van.
+```
+├───ikt
+│   │   index.html
+|   |   bankito.html
+|   |   pecsito.html
+|   |   tisza.html
+|   |   vadasato.html
+│   │
+│   └───assets
+
+```
+- Az összes kép az adott tó-ról megadott mappában vannak.
+
+## HTML
+- Minden tó-nak van egy külön html-je,ezáltal meg lehet különböztetni
+## CSS
+- Minden oldalnak van egy megadott CSS-e.
