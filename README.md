@@ -1,7 +1,7 @@
 ## Projekt felépítés
 - A projekt felépítése rendezett, minden a maga helyén van.
 ```
-├───ikt
+├───htmlek
 │   │   index.html
 |   |   bankito.html
 |   |   pecsito.html
@@ -9,7 +9,13 @@
 |   |   vadasato.html
 │   │
 │   └───assets
-
+│   |   banki_to
+|   |   pecsi_to
+|   |   tisza_to
+|   |   vadasa_to
+|   |
+|   └───css
+|   |   csss
 ```
 - Az összes kép az adott tó-ról megadott mappában vannak.
 
