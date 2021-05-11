@@ -13,3 +13,25 @@ h3,h4{
     margin-right: 175px;
     margin-left: 175px;
 }
+table{
+    width: 300px;
+    padding: 30px;
+    margin: 20px;
+    border: 5px solid white;
+    background-color: transparent
+}
+tr{
+    font-size: 1.5rem;
+}
+body{
+    text-align:center;
+}
+.bankiimg{
+    width: 350px;
+    height: 250px;
+    outline:white solid 1.5px;
+    top: -200px;
+    position:relative;
+    margin: 0 10px 0 0;
+    
+}
