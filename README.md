@@ -27,7 +27,8 @@
 - Minden tó-nak van egy külön html-je,ezáltal meg lehet különböztetni
 ## CSS
 - Az oldalak 3 css-t használnak összesen.
-### Emberek kik a projekten dolgoztak:
+
+## Emberek kik a projekten dolgoztak:
 - Tarr Gábor: HTML + CSS
 - Juhász Gábor: HTML + CSS + Less
 - Császár András: HTML + CSS + Less
