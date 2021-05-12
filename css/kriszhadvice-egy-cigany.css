@@ -1,0 +1,36 @@
+img{
+    width: 400px;
+    height: 200px;
+    outline:white solid 1px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+table {
+    width: 100%;
+}
+table tr {
+    height: 450px;
+}
+table td {
+    width: 250px;
+}
+p {
+    font-size: large;
+}
+body{
+    text-align:center;
+}
+#tavaktable {
+    margin: auto;
+}
+footer {
+    margin-top: 50px;
+    height: 50px;
+}
+#bev {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

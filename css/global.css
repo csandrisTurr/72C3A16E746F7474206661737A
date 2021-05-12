@@ -1,4 +1,6 @@
-
+p {
+    font-size: larger;
+}
 img{
     width: 200px;
     height: 200px;
@@ -34,4 +36,8 @@ body{
     position:relative;
     margin: 0 10px 0 0;
     
+}
+.cucc {
+    margin: auto auto 250px auto;
+    width: 50%;
 }
