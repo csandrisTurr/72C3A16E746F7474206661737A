@@ -1,5 +1,5 @@
 ## Pages
-- (Link)[https://csandristurr.github.io/72C3A16E746F7474206661737A/]
+- [Link](https://csandristurr.github.io/72C3A16E746F7474206661737A/)
 ## Fáljrendszer
 ```
 ├───root
