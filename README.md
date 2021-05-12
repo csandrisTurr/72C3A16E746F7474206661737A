@@ -1,7 +1,6 @@
-## Projekt felépítés
-- A projekt felépítése rendezett, minden a maga helyén van.
+## Fáljrendszer
 ```
-├───htmlek
+├───root
 │   │   index.html (Főoldal)
 |   |   banki.html
 |   |   pecsi.html
@@ -19,18 +18,15 @@
 |   └───css
 |   |   indexcss.css
 |   |   hatter.css
-|   |   luna.css (luna-less/luna.css)
++ emellett a Luna framework mappája
 ```
-## Képek
-- Az összes kép az adott tó-ról megadott mappában vannak.
-## HTML
-- Minden tó-nak van egy külön html-je,ezáltal meg lehet különböztetni
-## CSS
-- Az oldalak 3 css-t használnak összesen.
+##nagyon szép oldal eskü, 100% nem veszély
 
-## Emberek kik a projekten dolgoztak:
+- Az oldal luna frameworkot használ.
+
+## Emberek, kik a projekten dolgoztak:
 - Tarr Gábor: HTML + CSS
-- Juhász Gábor: HTML + CSS + Less
-- Császár András: HTML + CSS + Less
+- Juhász Gábor: HTML + CSS
+- Császár András: HTML + CSS
 
 
