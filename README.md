@@ -8,6 +8,7 @@
 |   |   pecsi.html
 |   |   tisza.html
 |   |   vadasa.html
+|   |   index-old.html (Régi Főoldal)
 │   │
 │   └───assets
 │   |   banki_to
@@ -18,11 +19,11 @@
 |   |   style.css
 |   |
 |   └───css
-|   |   indexcss.css
+|   |   global.css
 |   |   hatter.css
 + emellett a Luna framework mappája
 ```
-##nagyon szép oldal eskü, 100% nem veszély
+## nagyon szép oldal eskü, 100% nem veszély
 
 - Az oldal luna frameworkot használ.
 
